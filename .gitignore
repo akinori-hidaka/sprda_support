@@ -1,0 +1,13 @@
+__*
+__*/
+*.sty
+*.cls
+*.tex
+*.ps
+*.txt
+*.aux
+*.toc
+*.bmc
+*.log
+*.dvi
+*.fdb_latexmk

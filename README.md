@@ -1,7 +1,7 @@
 # コロナ社『統計的パターン認識と判別分析』サポートページ
 
 ## 誤植と訂正および補足事項
-- [正誤集PDF](/PDF/sprda_errata_ed1_20190331.pdf?raw=true)（2019年3月31日確認版）
+- [正誤集PDF](/PDF/sprda_errata_ed1_20191206.pdf?raw=true)（2019年12月6日確認版）
 
 ## 関連リンク
 - [コロナ社公式書籍サイト](http://www.coronasha.co.jp/np/isbn/9784339028317/)
